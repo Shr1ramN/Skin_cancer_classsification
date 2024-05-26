@@ -1,7 +1,32 @@
-# Skin_cancer_classsification
-The project focuses on developing an skin cancer classification system using a Convolutional  Neural Network (CNN) trained on an online dataset.
-The problem is to accurately and efficiently distinguish between benign and malignant skin lesions from dermoscopic images. 
-The key challenges include like ensuring the model can generalize well to unseen data and handle variations in skin types, lighting conditions, and camera qualities. 
-The dataset comprises labeled images of benign and malignant skin lesions obtained from online sources. 
-The project involves data collection, pre-processing, CNN architecture design, model training, performance evaluation and project documentation. 
-The trained CNN model's performance is evaluated using accuracy, confusion matrix, and distinguish between benign and malignant skin lesions.
+# Cancer Detection System
+
+An early cancer detection system that leverages Python and convolutional neural networks (CNN) for accurate image classification. This project aims to enhance diagnosis accuracy and speed through advanced image analysis techniques.
+
+## Features
+
+- **Early Detection**: Designed to identify cancer at an early stage through image classification.
+- **High Accuracy**: Utilizes advanced CNN techniques to improve the accuracy of diagnosis.
+- **Efficient Analysis**: Enhances the speed of diagnosis using optimized image processing algorithms.
+
+## Technologies Used
+
+- **Python**
+- **Convolutional Neural Networks (CNN)**
+- **Adam Optimizer**
+
+## Installation and Setup
+
+
+**Clone the repository**:
+    ```sh
+    git clone https://github.com/Shr1ramN/Skin_cancer_classsification.git
+    cd Skin_cancer_classsification
+    ```
+
+
+## Contact
+
+- **Author**: Shriram Narayana
+- **GitHub**: [Shr1ramN](https://github.com/Shr1ramN)
+
+
